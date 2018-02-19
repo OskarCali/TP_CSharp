@@ -5,7 +5,7 @@ El curso es https://www.tutorialspoint.com/csharp/index.htm
 
 Tambien hago distintas pruebas sobre estos. Espero que les ayude.
 
-By OskarCali
+By ÓskarCalí
 
 
 Agradezco a Tutorial Points por todos los cursos que ofrecen.
